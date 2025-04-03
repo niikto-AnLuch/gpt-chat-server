@@ -50,7 +50,7 @@ app.post('/chat', async (req, res) => {
 Ты — тёплое место для тех, кому нужно просто быть услышанным.
 `
 }
-        },
+        
         {
           role: 'user',
           content: message,
